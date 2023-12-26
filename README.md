@@ -8,6 +8,8 @@ I value quick user feedback, Agile-work practices, and selfless leadership. 🌱
 
 As a young developer, I am keen to build the best habits from the start. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffey8@gmail.com 📫 
 
+Checkout my links: https://linktr.ee/jamesdiffeycoding
+
 # Past project examples
 
 An easy-to-use app designed to help homeless shelter staff. Produced as my team's final project in School of Code's 2023 Winter Bootcamp.
