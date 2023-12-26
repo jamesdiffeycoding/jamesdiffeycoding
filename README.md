@@ -18,3 +18,15 @@ The application helps staff quickly record information about their service users
 Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabase (Authentication/Authorisation), Toast (popups).
 
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
+
+
+### (X) Timed code challenges ⏰ 
+
+60 minute challenge: display a grid of colours, including their hexcodes in html. 
+<img width="569" alt="4 colour palettes" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/910c3ff5-0fee-4124-99ca-9f938d9ea2a6">
+
+30 minute challenge: build a React widget using at least one hook
+<img width="626" alt="5 cups of water" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/5451166e-5948-43d3-b4e5-dee99fe861e6">
+
+15 minute challenge: make a front-end Rock Paper Scissors app in 15 minutes. How far can you get?
+![1 Rock paper scissors app](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/0aac498b-6515-49c0-a55a-a671d81251e1)
