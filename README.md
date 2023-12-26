@@ -12,7 +12,7 @@ Checkout my links: https://linktr.ee/jamesdiffeycoding
 
 ## Past project examples
 
-# Functionality-first application for homeless shelter staff.
+##### Functionality-first application for homeless shelter staff.
 The application helps staff quickly record information about their service users out in the streets or back in the shelter. Produced as my team's final project in School of Code's 2023 Winter Bootcamp.
 
 Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabase (Authentication/Authorisation), Toast (popups).
