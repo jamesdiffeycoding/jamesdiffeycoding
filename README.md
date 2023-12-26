@@ -22,11 +22,11 @@ Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabas
 
 ### (X) Timed code challenges ⏰ 
 
-60 minute challenge: display a grid of colours, including their hexcodes in html. 
+60 minute challenge: display a grid of colours, including their hexcodes in html. This wasn't pretty!
 <img width="569" alt="4 colour palettes" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/910c3ff5-0fee-4124-99ca-9f938d9ea2a6">
 
-30 minute challenge: build a React widget using at least one hook
+30 minute challenge: build a React widget using at least one hook. This ended up cute!
 <img width="626" alt="5 cups of water" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/5451166e-5948-43d3-b4e5-dee99fe861e6">
 
-15 minute challenge: make a front-end Rock Paper Scissors app in 15 minutes. How far can you get?
+15 minute challenge: make a front-end Rock Paper Scissors app in 15 minutes. What a rush-job! How far can you get?
 ![1 Rock paper scissors app](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/0aac498b-6515-49c0-a55a-a671d81251e1)
