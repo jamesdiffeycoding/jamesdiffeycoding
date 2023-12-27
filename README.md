@@ -20,13 +20,19 @@ Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabas
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
 
 
+### (2) A best-practice React Application for recording learnings as a developer.
+The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
+
+Technologies: React, Javascript, pure CSS, Vercel (deployment).
+
+![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
+
+
+
 ### (X) Timed code challenges ⏰ 
-
-60 minute challenge: display a grid of colours, including their hexcodes in html. This wasn't pretty!
-<img width="569" alt="4 colour palettes" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/910c3ff5-0fee-4124-99ca-9f938d9ea2a6">
-
 30 minute challenge: build a React widget using at least one hook. This ended up cute!
-<img width="626" alt="5 cups of water" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/5451166e-5948-43d3-b4e5-dee99fe861e6">
+60 minute challenge: display a grid of colours, including their hexcodes in html. This wasn't pretty!
+90 minute challenge: make a front-end Noughts and Cross app.The game logic for this was tough! 
 
-15 minute challenge: make a front-end Rock Paper Scissors app in 15 minutes. What a rush-job! How far can you get?
-![1 Rock paper scissors app](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/0aac498b-6515-49c0-a55a-a671d81251e1)
+![ChallengesShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/4410fe83-14fe-41b4-b07a-dccb5477a2e1)
+
