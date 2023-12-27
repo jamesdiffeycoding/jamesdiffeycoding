@@ -1,4 +1,4 @@
-Hi, I’m James 👋
+**Hi, I’m James 👋**
 
 A bit about me: 
 - I'm a bit of a code addict - and JavaScript is my current drug of choice!
@@ -20,7 +20,7 @@ Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabas
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
 
 
-### (2) A best-practice React Application for recording learnings as a developer.
+### (2) A React Application for recording learnings as a developer, following React best-practices.
 The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
 
 Technologies: React, Javascript, pure CSS, Vercel (deployment).
@@ -34,7 +34,7 @@ Technologies: React, Javascript, pure CSS, Vercel (deployment).
 
 60 minute challenge: display a grid of colours, including their hexcodes in html. This wasn't pretty!
 
-90 minute challenge: make a front-end Noughts and Cross app.The game logic for this was tough! 
+90 minute challenge: make a front-end Noughts and Cross app. The game logic for this was tough! 
 
 ![ChallengesShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/4410fe83-14fe-41b4-b07a-dccb5477a2e1)
 
