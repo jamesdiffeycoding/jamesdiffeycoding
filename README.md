@@ -30,11 +30,10 @@ Technologies: React, Javascript, pure CSS, Vercel (deployment).
 
 
 ### (X) Timed code challenge examples ⏰ 
-30 minute challenge: build a React widget using at least one hook. This ended up cute!
-
-60 minute challenge: display a grid of colours, including their hexcodes in html. This wasn't pretty!
-
-90 minute challenge: make a front-end Noughts and Cross app. The game logic for this was tough! 
+Sometimes I like to set myself smaller challenges to test my learning.
+- 30 minute challenge: build a React widget using at least one hook. This ended up cute!
+- 60 minute challenge: display a grid of colours, including their hexcodes in html. This did not end up so cute...
+- 90 minute challenge: make a front-end Noughts and Cross app. The game logic for this was the toughest part by far! 
 
 ![ChallengesShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/be1d4e60-dfd6-4f49-81bb-589c4373da23)
 
