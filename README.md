@@ -13,7 +13,7 @@ Checkout my links: https://linktr.ee/jamesdiffeycoding
 # Project examples
 
 ### (1) A functionality-first app for homeless shelter staff.
-The application helps staff quickly record information about their service users while out in the streets or back in the shelter. Produced as my team's final project in School of Code's 2023 Winter Bootcamp.
+The application helps staff quickly record information about their service users while out in the streets or back in the shelter. Produced as my team's final project in School of Code's 2023 Winter Bootcamp. It was useful to practice authentication methods and route-guarding, interdepedent server-hosted data tables, dynamic routing, pop-ups, and easily-navigable file structures.
 
 Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabase (Authentication/Authorisation), Toast (popups).
 
