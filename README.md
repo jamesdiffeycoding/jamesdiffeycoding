@@ -27,9 +27,8 @@ Technologies: React, Javascript, pure CSS, Vercel (deployment).
 
 ![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
 
-## (X) Practice Projects
-
-#### A colourful responsive Tailwind grid https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/
+## (X) Practice Projects such as...
+### [1]: https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/ "A colourful responsive Tailwind grid (GitHub Pages)"
 A simple for-practice responsive grid layout, something I had not had time to practice on other projects thus far.
 
 Technologies: Tailwind CSS, Node, GitHub Pages (deployment).
