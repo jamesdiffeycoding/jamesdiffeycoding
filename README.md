@@ -25,29 +25,3 @@ The application allows adding, viewing, deleting and updating (via favouriting) 
 Technologies: React, Javascript, pure CSS, Vercel (deployment).
 
 ![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
-
-## (X) Practice Projects such as...
-
-### ["A relaxing site featuring an animated Studio Ghibli video (GitHub Pages)"](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
-A simple for-practice video and audio site. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
-
-Technologies: plain HTML and CSS
-
-![image](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/dc4a6263-47c3-4849-8e02-6afae47c26b7)
-
-### ["A colourful responsive Tailwind grid (GitHub Pages)"](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/75dbc1c0-2b05-4325-baf1-b7a91ac21d0b)
-
-A simple for-practice responsive grid layout, something I had not had time to practice on other projects thus far.
-
-Technologies: Tailwind CSS, Node, GitHub Pages (deployment).
-
-![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/243e1338-168f-4dbd-be9a-4f192b06dd2a)
-
-### (X) Timed code challenge examples ⏰ 
-Sometimes I like to set myself smaller challenges to test my learning.
-- 30 minute challenge: build a React widget using at least one hook. This ended up cute!
-- 60 minute challenge: display a grid of colours, including their hexcodes in html. This did not end up so cute...
-- 90 minute challenge: make a front-end Noughts and Cross app. The game logic for this was the toughest part by far! 
-
-![ChallengesShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/be1d4e60-dfd6-4f49-81bb-589c4373da23)
-
