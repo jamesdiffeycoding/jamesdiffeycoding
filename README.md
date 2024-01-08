@@ -29,14 +29,14 @@ Technologies: React, Javascript, pure CSS, Vercel (deployment).
 
 ## (X) Practice Projects such as...
 
-### ["A relaxing site featuring an animated Studio Ghibli video (GitHub Pages)"](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
+### [A relaxing site featuring an animated Studio Ghibli video (GitHub Pages)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
 A simple for-practice video and audio site. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
 
 Technologies: plain HTML and CSS
 
 ![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/75dbc1c0-2b05-4325-baf1-b7a91ac21d0b)
 
-### ["A colourful responsive Tailwind grid (GitHub Pages)"](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
+### [A colourful responsive Tailwind grid (GitHub Pages)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
 
 A simple for-practice responsive grid layout, something I had not had time to practice on other projects thus far.
 
