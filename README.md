@@ -1,7 +1,7 @@
 **Hi, I’m James 👋**
 
 A bit about me: 
-- I'm a bit of a code addict - and JavaScript is my current drug of choice!
+- I have loved coding in JavaScript, and am trying other languages and frameworks too to broaden my knowledge(e.g. Ruby on Rails)
 - I have a passion for mental health and the wellbeing of those poorly served by society.
 - I love all things visual 👀 and I'm currently honing my React and Next JS skills. 
 - I value quick user feedback, Agile-work practices, and selfless leadership. 🌱
