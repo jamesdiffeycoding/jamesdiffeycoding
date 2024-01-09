@@ -20,10 +20,7 @@ Technologies: plain HTML and CSS
 ![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/75dbc1c0-2b05-4325-baf1-b7a91ac21d0b)
 
 
-![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/243e1338-168f-4dbd-be9a-4f192b06dd2a)
-
-### [A simple Ruby On Rails Pokedex App](https://rubyonrails-pokedex.onrender.com/pokemonsters
-)
+### [A simple Ruby On Rails Pokedex App](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far! 
 
 Technologies: Ruby on Rails, Render (deployment)
@@ -44,6 +41,8 @@ Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabas
 A simple for-practice responsive grid layout, something I had not had time to practice on other projects thus far.
 
 Technologies: Tailwind CSS, Node, GitHub Pages (deployment).
+
+![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/243e1338-168f-4dbd-be9a-4f192b06dd2a)
 
 
 ### [A React Application for recording learnings as a developer, following React best-practices (Vercel)](https://developer-lessons-react.vercel.app/)
