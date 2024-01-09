@@ -11,23 +11,12 @@ As a young developer, I am keen to build the best habits from the start. If you'
 
 # Project examples
 
-### (1) [A functionality-first app for homeless shelter staff (Render)](https://www.youtube.com/watch?v=xjYaiY8oWOU&ab_channel=JamesDiffey)
+### [A functionality-first app for homeless shelter staff (Render)](https://www.youtube.com/watch?v=xjYaiY8oWOU&ab_channel=JamesDiffey)
 The application helps staff quickly record information about their service users while out in the streets or back in the shelter. Produced as my team's final project in School of Code's 2023 Winter Bootcamp. It was useful to practice authentication methods and route-guarding, interdepedent server-hosted data tables, dynamic routing, pop-ups, and easily-navigable file structures.
 
 Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabase (Authentication/Authorisation), Toast (popups).
 
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
-
-
-### (2) [A React Application for recording learnings as a developer, following React best-practices (Vercel)](https://developer-lessons-react.vercel.app/)
-The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
-
-Technologies: React, Javascript, pure CSS, Vercel (deployment).
-
-![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
-
-
-## (X) Practice Projects such as...
 
 ### [A relaxing site featuring an animated Studio Ghibli video (GH Pages)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
 A simple for-practice video and audio site. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
@@ -43,6 +32,21 @@ A simple for-practice responsive grid layout, something I had not had time to pr
 Technologies: Tailwind CSS, Node, GitHub Pages (deployment).
 
 ![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/243e1338-168f-4dbd-be9a-4f192b06dd2a)
+
+### [A simple Ruby On Rails Pokedex App](https://rubyonrails-pokedex.onrender.com/pokemonsters
+)
+A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far! 
+
+Technologies: Ruby on Rails, Render (deployment)
+
+![RubyDexShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f1f09855-7d22-48bd-91eb-2d0bb8d058e7)
+
+### [A React Application for recording learnings as a developer, following React best-practices (Vercel)](https://developer-lessons-react.vercel.app/)
+The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
+
+Technologies: React, Javascript, pure CSS, Vercel (deployment).
+
+![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
 
 ### (X) Timed code challenge examples ⏰ 
 Sometimes I like to set myself smaller challenges to test my learning.
