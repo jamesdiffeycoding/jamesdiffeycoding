@@ -6,7 +6,7 @@ A bit about me:
 - I love all things visual 👀 and I'm currently honing my React and Next JS skills. 
 - I value quick user feedback, Agile-work practices, and selfless leadership. 🌱
 
-As a young developer, I am keen to build the best habits from the start. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffey8@gmail.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
+I am keen to become the best developer and teamplayer I can be. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffey8@gmail.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
 
 
 # Project examples
