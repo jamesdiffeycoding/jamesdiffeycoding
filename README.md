@@ -20,7 +20,7 @@ Technologies: plain HTML and CSS
 ![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/75dbc1c0-2b05-4325-baf1-b7a91ac21d0b)
 
 
-### [A simple Ruby On Rails Pokedex App](https://rubyonrails-pokedex.onrender.com/pokemonsters)
+### [A simple Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far! 
 
 Technologies: Ruby on Rails, Render (deployment)
