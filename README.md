@@ -48,7 +48,7 @@ Technologies: React, Javascript, pure CSS, Vercel (deployment).
 
 ![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
 
-### (X) Timed code challenge examples ⏰ 
+### Timed code challenges ⏰ 
 Sometimes I like to set myself smaller challenges to test my learning.
 - 30 minute challenge: build a React widget using at least one hook. This ended up cute!
 - 60 minute challenge: display a grid of colours, including their hexcodes in html. This did not end up so cute...
