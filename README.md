@@ -16,10 +16,10 @@ Below you will find an overview of some of my recent projects. I'm currently loo
 
 The application helps staff quickly record information about their service users while out in the streets or back in the shelter. It aims to help improve both service staff and service user experiences. This has project has already involved...
 - user interviews, surveys, feedback cycles, wireframes, stakeholder meetings,project demos (this project was initially conceived and worked amongst other passionate coders)....
-- authorisation and authentication, auth-guarding, dynamic routing, caching prevention, React Hooks, prop-drilling, context... and more! 
+- authorisation and authentication with SupaBase, auth-guarding, dynamic routing, caching prevention, React Hooks, prop-drilling, context... and more! 
 
-Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabase (Authentication/Authorisation), Toast (popups).
 [An overview of an earlier version of the application](https://www.youtube.com/watch?v=xjYaiY8oWOU&ab_channel=JamesDiffey)
+
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
 
 
