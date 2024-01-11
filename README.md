@@ -12,6 +12,16 @@ Below you will find an overview of some of my recent projects. I'm currently loo
 
 # Project examples
 
+### [TRY IT YOURSELF: A Next JS multi-feature, secure homeless shelter user database (Vercel)](https://secure-nextjs-homeless-shelter-database.vercel.app/displayallsu)
+
+The application helps staff quickly record information about their service users while out in the streets or back in the shelter. It aims to help improve both service staff and service user experiences. This has project has already involved...
+- user interviews, surveys, feedback cycles, wireframes, stakeholder meetings,project demos (this project was initially conceived and worked amongst other passionate coders)....
+- authorisation and authentication, auth-guarding, dynamic routing, caching prevention, React Hooks, prop-drilling, context... and more! 
+
+Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabase (Authentication/Authorisation), Toast (popups).
+[An overview of an earlier version of the application](https://www.youtube.com/watch?v=xjYaiY8oWOU&ab_channel=JamesDiffey)
+![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
+
 
 ### [A relaxing site featuring an animated Studio Ghibli video (GH Pages)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
 A simple for-practice video and audio site. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
@@ -28,13 +38,6 @@ Technologies: Ruby on Rails, Render (deployment)
 
 ![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)
 
-
-### [A functionality-first app for homeless shelter staff (Render)](https://www.youtube.com/watch?v=xjYaiY8oWOU&ab_channel=JamesDiffey)
-The application helps staff quickly record information about their service users while out in the streets or back in the shelter. Produced as my team's final project in School of Code's 2023 Winter Bootcamp. It was useful to practice authentication methods and route-guarding, interdepedent server-hosted data tables, dynamic routing, pop-ups, and easily-navigable file structures.
-
-Technologies: Next JS, React, Javascript, pure CSS, Render (deployment), Supabase (Authentication/Authorisation), Toast (popups).
-
-![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
 
 
 ### [A colourful responsive Tailwind grid (GH Pages)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
