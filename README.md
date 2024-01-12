@@ -12,7 +12,7 @@ Below you will find an overview of some of my recent projects. I'm currently loo
 
 # Project examples
 
-### [TRY IT YOURSELF: A Next JS multi-feature, secure homeless shelter user database (Vercel)](https://secure-nextjs-homeless-shelter-database.vercel.app/displayallsu)
+### [TRY IT YOURSELF: A Next JS multi-feature, secure homeless shelter user database (Vercel)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
 The application helps staff quickly record information about their service users while out in the streets or back in the shelter. It aims to help improve both service staff and service user experiences. This has project has already involved...
 - user interviews, surveys, feedback cycles, wireframes, stakeholder meetings,project demos (this project was initially conceived and worked amongst other passionate coders)....
