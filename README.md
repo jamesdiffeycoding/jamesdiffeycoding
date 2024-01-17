@@ -38,6 +38,12 @@ Technologies: React, Javascript, pure CSS, Vercel (deployment).
 
 ![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
 
+### [A relaxing site featuring an animated Studio Ghibli video (GH Pages)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
+A simple for-practice video and audio site with a responsive header. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
+
+Technologies: plain HTML and CSS
+
+![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/75dbc1c0-2b05-4325-baf1-b7a91ac21d0b)
 
 
 ### [A colourful responsive Tailwind grid (GH Pages)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
@@ -49,14 +55,6 @@ Technologies: Tailwind CSS, Node, GitHub Pages (deployment).
 ![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/243e1338-168f-4dbd-be9a-4f192b06dd2a)
 
 
-### [A relaxing site featuring an animated Studio Ghibli video (GH Pages)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
-A simple for-practice video and audio site. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
-
-Technologies: plain HTML and CSS
-
-![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/75dbc1c0-2b05-4325-baf1-b7a91ac21d0b)
-
-
 
 
 ### Timed code challenges ⏰ 
@@ -66,6 +64,8 @@ Sometimes I like to set myself smaller challenges to test my learning.
 - 90 minute challenge: make a front-end Noughts and Cross app. The game logic for this was the toughest part by far!
   
 ![ChallengesShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/be1d4e60-dfd6-4f49-81bb-589c4373da23)
+
+
 
 - 120 minute challenge: make a front-end maze game. I called mine [Banana and Ivy](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game/)
 <img width="530" alt="BananaGameShot1" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f91b3029-7b91-46de-86b0-ee1c59f9c49f">
