@@ -4,7 +4,7 @@ I love coding in JavaScript and also broaden my knowledge by trying other langua
  
 Aside from that, I have a particular passion for the wellbeing of those poorly served by society.
 
-I am keen to become the best developer and teamplayer I can be. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffey8@gmail.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
+I am keen to become the best developer and teamplayer I can be. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffeycoding@outlook.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
 
 Below you will find an overview of some of my recent projects. I'm currently looking for work in early 2024. 
 
