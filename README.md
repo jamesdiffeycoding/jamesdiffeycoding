@@ -10,7 +10,7 @@ Below you will find an overview of some of my recent projects. I'm currently loo
 
 
 
-# Project examples
+# Projects
 
 ### [TRY IT YOURSELF: A Next JS multi-feature, secure homeless shelter user database (Vercel)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
@@ -22,7 +22,7 @@ The application helps staff quickly record information about their service users
 
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
 
-### [Awesun: Solar Energy Visualiser (Vercel)]([https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard](https://solar-energy-alpha.vercel.app/))
+### [Awesun: Solar Energy Visualiser (Vercel)](https://solar-energy-alpha.vercel.app/))
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
 
