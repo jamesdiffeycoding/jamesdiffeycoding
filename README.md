@@ -22,6 +22,11 @@ The application helps staff quickly record information about their service users
 
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
 
+### [Awesun: Solar Energy Visualiser (Vercel)]([https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard](https://solar-energy-alpha.vercel.app/))
+
+This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
+
+![AwesunShot6](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/4d1a11bc-7880-4d05-96f1-8a9769e7e708)
 
 ### [A simple Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far! 
