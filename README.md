@@ -11,8 +11,14 @@ Below you will find an overview of some of my recent projects. I'm currently loo
 
 
 # Projects
+### [Awesun: Solar Energy Visualiser (Vercel)](https://solar-energy-alpha.vercel.app/)
 
-### [TRY IT YOURSELF: A Next JS multi-feature, secure homeless shelter user database (Vercel)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
+This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
+
+![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/1cbfc982-9476-47a1-ab84-94bd28835617)
+
+
+### [Secure homeless shelter user database (Vercel)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
 The application helps staff quickly record information about their service users while out in the streets or back in the shelter. It aims to help improve both service staff and service user experiences. This has project has already involved...
 - user interviews, surveys, feedback cycles, wireframes, stakeholder meetings,project demos (this project was initially conceived and worked amongst other passionate coders)....
@@ -22,11 +28,6 @@ The application helps staff quickly record information about their service users
 
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
 
-### [Awesun: Solar Energy Visualiser (Vercel)](https://solar-energy-alpha.vercel.app/)
-
-This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
-
-![AwesunShot6](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/4d1a11bc-7880-4d05-96f1-8a9769e7e708)
 
 ### [A simple Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far! 
