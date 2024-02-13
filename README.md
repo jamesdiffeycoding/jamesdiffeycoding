@@ -57,7 +57,7 @@ A simple for-practice video and audio site with a responsive header. Autoplay pr
 
 Technologies: plain HTML and CSS
 
-![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/75dbc1c0-2b05-4325-baf1-b7a91ac21d0b)
+![Uploading GhibliShotBanner.png…]()
 
 
 ### [A colourful responsive Tailwind grid (GH Pages)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
@@ -80,4 +80,4 @@ Sometimes I like to set myself smaller challenges to test my learning.
 
 - 150 minute challenge: make a front-end maze game. I called mine [Banana and Ivy](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game/)
 
-<img width="1000" alt="BananaGameShotBanner" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/5c23f3c4-2974-49d2-8c52-8e93f16a0d68">
+<img width="1000" alt="BananaGameShotBanner" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b70182d1-170a-4d44-8641-a7d87b622b99">
