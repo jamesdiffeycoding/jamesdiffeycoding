@@ -15,7 +15,7 @@ Below you will find an overview of some of my recent projects. I'm currently loo
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
 
-![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/1cbfc982-9476-47a1-ab84-94bd28835617)
+![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)
 
 
 ### [Secure homeless shelter user database (Vercel)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
@@ -36,12 +36,14 @@ Technologies: Ruby on Rails, Render (deployment)
 
 ![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)
 
+
 ### [A simple Python and Django Learning App (Vercel)](https://django-learning-project.vercel.app/)
 A simple App, which was my first project in Python and Django, having worked primarily in React/Next JS thus far.
 
 Technologies: Python, Django, Vercel
 
-![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/346ed718-bfbe-4c94-ae54-11569735e62b)
+![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f92fd5e0-21ea-43be-8b55-ee703a9f08bc)
+
 
 ### [A React Application for recording learnings as a developer, following React best-practices (Vercel)](https://developer-lessons-react.vercel.app/)
 The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
@@ -67,17 +69,15 @@ Technologies: Tailwind CSS, Node, GitHub Pages (deployment).
 ![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/243e1338-168f-4dbd-be9a-4f192b06dd2a)
 
 
-
-
 ### Timed code challenges ⏰ 
 Sometimes I like to set myself smaller challenges to test my learning.
 - 30 minute challenge: build a React widget using at least one hook. This ended up cute!
 - 60 minute challenge: display a grid of colours, including their hexcodes in html. This did not end up so cute...
-- 90 minute challenge: make a front-end Noughts and Cross app. The game logic for this was the toughest part by far!
+- 120 minute challenge: make a front-end Noughts and Cross app. The game logic for this was the toughest part by far!
   
 ![ChallengesShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/be1d4e60-dfd6-4f49-81bb-589c4373da23)
 
 
+- 150 minute challenge: make a front-end maze game. I called mine [Banana and Ivy](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game/)
 
-- 120 minute challenge: make a front-end maze game. I called mine [Banana and Ivy](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game/)
-<img width="530" alt="BananaGameShot1" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f91b3029-7b91-46de-86b0-ee1c59f9c49f">
+<img width="1000" alt="BananaGameShotBanner" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/5c23f3c4-2974-49d2-8c52-8e93f16a0d68">
