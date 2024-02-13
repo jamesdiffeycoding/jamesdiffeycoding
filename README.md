@@ -1,4 +1,4 @@
-**Hi, I’m James 👋**
+![image](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/787c1d3a-6acf-4743-bd11-6cfb650d17b8)**Hi, I’m James 👋**
 
 I love coding in JavaScript and also broaden my knowledge by trying other languages and frameworks (e.g. Ruby on Rails). In the workplace, I value quick and regular user feedback, considerate communication, and Agile work practices.
  
@@ -57,7 +57,7 @@ A simple for-practice video and audio site with a responsive header. Autoplay pr
 
 Technologies: plain HTML and CSS
 
-![Uploading GhibliShotBanner.png…]()
+![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/8e15b17c-d630-41f1-aeb0-815fad921f90)
 
 
 ### [A colourful responsive Tailwind grid (GH Pages)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
@@ -66,7 +66,7 @@ A simple for-practice responsive grid layout, something I had not had time to pr
 
 Technologies: Tailwind CSS, Node, GitHub Pages (deployment).
 
-![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/243e1338-168f-4dbd-be9a-4f192b06dd2a)
+![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/6a50cfc3-1266-47db-8e70-dbd8e3fcf61b)
 
 
 ### Timed code challenges ⏰ 
