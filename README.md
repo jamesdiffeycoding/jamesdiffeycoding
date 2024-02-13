@@ -30,12 +30,18 @@ The application helps staff quickly record information about their service users
 
 
 ### [A simple Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
-A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far! 
+A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far.
 
 Technologies: Ruby on Rails, Render (deployment)
 
 ![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)
 
+### [A simple Python and Django Learning App (Vercel)](https://django-learning-project.vercel.app/)
+A simple App, which was my first project in Python and Django, having worked primarily in React/Next JS thus far.
+
+Technologies: Python, Django, Vercel
+
+![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/346ed718-bfbe-4c94-ae54-11569735e62b)
 
 ### [A React Application for recording learnings as a developer, following React best-practices (Vercel)](https://developer-lessons-react.vercel.app/)
 The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
