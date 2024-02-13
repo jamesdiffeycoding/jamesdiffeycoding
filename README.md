@@ -1,4 +1,4 @@
-![image](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/787c1d3a-6acf-4743-bd11-6cfb650d17b8)**Hi, I’m James 👋**
+**Hi, I’m James 👋**
 
 I love coding in JavaScript and also broaden my knowledge by trying other languages and frameworks (e.g. Ruby on Rails). In the workplace, I value quick and regular user feedback, considerate communication, and Agile work practices.
  
