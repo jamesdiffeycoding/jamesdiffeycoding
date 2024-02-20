@@ -32,8 +32,6 @@ The application helps staff quickly record information about their service users
 ### [A simple Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far.
 
-Technologies: Ruby on Rails, Render (deployment)
-
 ![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)
 
 ### [Live Deployment Dashboard (Vercel)](https://jamesdiffeycoding-pythonlivedashboard.vercel.app/)
@@ -48,22 +46,16 @@ This application allows me to check all of my deployments statuses (and prevent 
 ### [A simple Python and Django Learning App (Vercel)](https://django-learning-project.vercel.app/)
 A simple App, which was my first project in Python and Django, having worked primarily in React/Next JS thus far.
 
-Technologies: Python, Django, Vercel
-
 ![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f92fd5e0-21ea-43be-8b55-ee703a9f08bc)
 
 
 ### [A React Application for recording learnings as a developer, following React best-practices (Vercel)](https://developer-lessons-react.vercel.app/)
 The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
 
-Technologies: React, Javascript, pure CSS, Vercel (deployment).
-
 ![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
 
 ### [A relaxing site featuring an animated Studio Ghibli video (GH Pages)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
 A simple for-practice video and audio site with a responsive header. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
-
-Technologies: plain HTML and CSS
 
 ![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/8e15b17c-d630-41f1-aeb0-815fad921f90)
 
@@ -71,8 +63,6 @@ Technologies: plain HTML and CSS
 ### [A colourful responsive Tailwind grid (GH Pages)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
 
 A simple for-practice responsive grid layout, something I had not had time to practice on other projects thus far.
-
-Technologies: Tailwind CSS, Node, GitHub Pages (deployment).
 
 ![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/6a50cfc3-1266-47db-8e70-dbd8e3fcf61b)
 
