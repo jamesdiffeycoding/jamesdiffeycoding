@@ -1,12 +1,11 @@
-**Hi, I’m James 👋**
+**Hi, I’m James 👋** I'm currently looking for work in early 2024. 
+I love coding. (full stop!) 
 
-I love coding in JavaScript and also broaden my knowledge by trying other languages and frameworks (e.g. Python, Ruby on Rails). In the workplace, I value quick and regular user feedback and Agile work practices.
- 
-Aside from that, I have a particular passion for the wellbeing of those poorly served by society.
+In the workplace, I value quick and regular user feedback and Agile work practices. I have most experience with JS, Next JS and React, and have recently made projects in Python, Django, Flask, and Ruby. I am keen to become the best developer and teamplayer I can be. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffeycoding@outlook.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
 
-I am keen to become the best developer and teamplayer I can be. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffeycoding@outlook.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
+Aside from that, I have a particular passion for the environment and the wellbeing of those poorly served by society.
 
-Below you will find an overview of some of my recent projects. I'm currently looking for work in early 2024. 
+Below you will find an overview of some of my recent projects. 
 
 
 
