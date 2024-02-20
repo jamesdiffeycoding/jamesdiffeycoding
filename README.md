@@ -36,6 +36,12 @@ Technologies: Ruby on Rails, Render (deployment)
 
 ![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)
 
+### [Awesun: Solar Energy Visualiser (Vercel)](https://jamesdiffeycoding-pythonlivedashboard.vercel.app/)
+
+This application allows me to check all of my deployments statuses (and prevent any from spinning down with activity) by visiting a single site. Python, Flask and Beautiful Soup were used to scrape my sites for their html content, and the site itself displays whether the url request was valid, and whether the html response to the request was as expected.
+
+![DeploymentsDashboardShot1](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/ea58507c-c177-4518-a3bc-c4ec30f313d6)
+
 
 ### [A simple Python and Django Learning App (Vercel)](https://django-learning-project.vercel.app/)
 A simple App, which was my first project in Python and Django, having worked primarily in React/Next JS thus far.
