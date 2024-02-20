@@ -2,15 +2,15 @@
 
 I love coding to build projects that make people happy.
 
-In the workplace, I value quick and regular user feedback and Agile work practices. I have most experience with JS, Next JS and React, and have recently made projects in Python, Django, Flask, and Ruby. I am keen to become the best developer and teamplayer I can be. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffeycoding@outlook.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
+I value quick and regular user feedback and Agile work practices. I have most experience with JS, Next JS and React, and have recently made projects in Python, Django, Flask, and Ruby. 
 
-Aside from that, I have a particular passion for the environment and the wellbeing of those poorly served by society.
+I have a particular passion for the environment and the wellbeing of those poorly served by society. My background includes mental health and climate change research at Imperial College London and a Master's Degree at the London School of Economics (achieved with Distinction).
 
-Below you will find an overview of some of my recent projects. 
+I am keen to become the best developer and teamplayer I can be. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffeycoding@outlook.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
 
 
 
-# Projects
+# Recent Projects
 ### [Awesun: Solar Energy Visualiser (Vercel)](https://awesun-solar-visualiser.vercel.app/)
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
