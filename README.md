@@ -1,6 +1,6 @@
 **Hi, I’m James 👋**
 
-I love coding in JavaScript and also broaden my knowledge by trying other languages and frameworks (e.g. Ruby on Rails). In the workplace, I value quick and regular user feedback, considerate communication, and Agile work practices.
+I love coding in JavaScript and also broaden my knowledge by trying other languages and frameworks (e.g. Python, Ruby on Rails). In the workplace, I value quick and regular user feedback and Agile work practices.
  
 Aside from that, I have a particular passion for the wellbeing of those poorly served by society.
 
