@@ -1,6 +1,6 @@
 **Hi, I’m James 👋** I'm currently looking for work in early 2024. 
 
-I love coding to build projects that make people happy.
+I love using code to build things that improve the world, even if its just making a user happy.
 
 I value quick and regular user feedback and Agile work practices. I have most experience with JS, Next JS and React, and have recently made projects in Python, Django, Flask, and Ruby. 
 
