@@ -16,7 +16,7 @@
 
 I am keen to become the best developer and teamplayer I can be. Reach out at @jamesdiffeycoding@outlook.com or [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
 
-# Recent Projects
+# Recent Projects 🖥️
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
