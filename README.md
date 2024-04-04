@@ -1,16 +1,18 @@
 **Hi, I’m James 👋** I'm currently looking for software development work.
 
-**Languages currently used**: JavaScript, TypeScript, Python, Ruby
-**Frameworks currently used**: React, Next JS, Django, Flask, Rails
-**Functionality examples**: semantic HTML, responsive CSS, authentication and authorisation 
-**Things I value**: consistent coding structures, regular feedback, Agile work practices, accessibility.
+~ About me ~ 
+• **Languages**: JavaScript, TypeScript, Python, Ruby
 
-**Unrelated Training**: I have a Master's degree in Climate Change, trained as a psychotherapist, and worked as a researcher for several years.
+• **Frameworks**: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
+
+• **Functionality**: semantic HTML, responsive CSS, authentication and authorisation 
+
+• **Code Values**: consistent coding structures, regular feedback, Agile work practices, accessibility.
+
+• **Wider background**: I have a Master's degree in Climate Change, trained as a psychotherapist, and worked as a researcher for several years.
 
 
-I am keen to become the best developer and teamplayer I can be. If you'd be up for a chat to share your experience, please drop me a line on email @jamesdiffeycoding@outlook.com or reach out on [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
-
-
+I am keen to become the best developer and teamplayer I can be. Reach out at @jamesdiffeycoding@outlook.com or [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
 
 # Recent Projects
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
@@ -23,7 +25,7 @@ This application visualises the solar energy currently being produced in the UK,
 ### [Secure homeless shelter user database (Next, JS, SupaBase, Jest)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
 The application helps staff quickly record information about their service users while out in the streets or back in the shelter. It aims to help improve both service staff and service user experiences. This has project has already involved...
-- user interviews, surveys, feedback cycles, wireframes, stakeholder meetings,project demos (this project was initially conceived and worked amongst other passionate coders)....
+- user interviews, surveys, feedback cycles, wireframes, stakeholder meetings, project demos
 - authorisation and authentication with SupaBase, auth-guarding, dynamic routing, caching prevention, React Hooks, prop-drilling, context... and more! 
 
 ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
