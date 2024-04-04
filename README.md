@@ -12,6 +12,7 @@
 
 • **Wider background**: I have a Master's degree in Climate Change, trained as a psychotherapist, and worked as a researcher for several years.
 
+# Reach out
 
 I am keen to become the best developer and teamplayer I can be. Reach out at @jamesdiffeycoding@outlook.com or [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
 
