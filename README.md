@@ -1,6 +1,6 @@
-**Hi, I’m James 👋** I'm currently looking for software development work.
+# ~ James in a nutshell ~ 
 
-# ~ About me ~ 
+• **LFW**: Looking for software developer roles in London or remote. Excited to continue growing after completing a 16 week Full Stack Development Bootcamp.
 
 • **Languages**: JavaScript, TypeScript, Python, Ruby
 
