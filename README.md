@@ -1,6 +1,7 @@
 **Hi, I’m James 👋** I'm currently looking for software development work.
 
-~ About me ~ 
+# ~ About me ~ 
+
 • **Languages**: JavaScript, TypeScript, Python, Ruby
 
 • **Frameworks**: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
