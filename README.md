@@ -1,4 +1,4 @@
-# ~ James in a nutshell ~ 
+# Me in a nutshell 🥜
 
 • **Currently LFW**: I am looking for software developer roles in London or remote. Excited to continue growing after completing a 16 week Full Stack Development Bootcamp.
 
