@@ -29,7 +29,7 @@ The application helps staff quickly record information about their service users
 
 
 
-### [Mathemagical (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
+### [Mathemagical (Render)](https://mathemagical.vercel.app/)
 Animating beautiful equations using React, TypeScript, and canvas.
 
 ![MathemagicalBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/017d01b5-e6fb-427e-aca0-0629eac09867)
