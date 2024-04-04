@@ -28,7 +28,15 @@ The application helps staff quickly record information about their service users
 
 
 
-### [A simple Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
+
+### [Mathemagical (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
+Animating beautiful equations using React, TypeScript, and canvas.
+
+![MathemagicalBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/017d01b5-e6fb-427e-aca0-0629eac09867)
+
+
+
+### [A Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far.
 
 ![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)
