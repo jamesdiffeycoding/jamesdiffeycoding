@@ -1,4 +1,9 @@
 # Me in a nutshell 🥜
+[My CV](https://drive.google.com/file/d/1tN5JaPR1wg8wBVwlHW5IklCENYjRykIE/view?usp=sharing)
+[My email](mailto:diffeyj@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/jamesdiffey/)
+
+
 
 • **Location**: London, UK
 
@@ -14,7 +19,7 @@
 
 # Reach out 💬
 
-I am keen to become the best developer and teamplayer I can be. Reach out at @jamesdiffeycoding@outlook.com or [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)📫 
+I am keen to become the best developer and teamplayer I can be. Reach out at @jamesdiffeycoding@outlook.com or📫 
 
 # Recent Projects 🖥️
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
