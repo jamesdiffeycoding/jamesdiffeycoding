@@ -20,28 +20,19 @@ This application visualises the solar energy currently being produced in the UK,
 
 [![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)
 
-
-[![AwesunShotBanner]([https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4](https://example.com)
-
-![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)
-
-![AwesunShotBanner]([https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4](https://awesun-solar-visualiser.vercel.app/))
-
 ### [Secure homeless shelter user database (Next, JS, SupaBase, Jest)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
 The application helps staff quickly record information about their service users while out in the streets or back in the shelter. It aims to help improve both service staff and service user experiences. This has project has already involved...
 - user interviews, surveys, feedback cycles, wireframes, stakeholder meetings, project demos
 - authorisation and authentication with SupaBase, auth-guarding, dynamic routing, caching prevention, React Hooks, prop-drilling, context... and more! 
 
-![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)
 
-
-
+[![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
 ### [Mathemagical (React, TS)](https://mathemagical.vercel.app/)
 Animating beautiful equations using React, TypeScript, and canvas.
 
-![MathemagicalBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/017d01b5-e6fb-427e-aca0-0629eac09867)
+[![MathemagicalBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/017d01b5-e6fb-427e-aca0-0629eac09867)](https://mathemagical.vercel.app)
 
 
 
