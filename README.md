@@ -29,14 +29,14 @@ The application helps staff quickly record information about their service users
 
 [![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
-### [Mathemagical (React, TS)](https://mathemagical.vercel.app/)
+### [Mathemagical (TypeScript, React)](https://mathemagical.vercel.app/)
 Animating beautiful equations using React, TypeScript, and canvas.
 
 [![MathemagicalBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/017d01b5-e6fb-427e-aca0-0629eac09867)](https://mathemagical.vercel.app)
 
 
 
-### [CRUD Pokedex App (Ruby)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
+### [CRUD Pokedex App (Ruby on Rails)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far.
 
 [![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
@@ -49,12 +49,6 @@ This application allows me to check all of my deployments statuses (and prevent 
 
 [![DeploymentsDashboardShot2](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a1dae188-5b51-4978-ab78-0617aa2372e1)](https://jamesdiffeycoding-pythonlivedashboard.vercel.app)
 
-
-### [A simple Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
-A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far.
-
-[![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
-
 ### [A Python and Django Learning App](https://django-learning-project.vercel.app/)
 A simple App, which was my first project in Python and Django, having worked primarily in React/Next JS thus far.
 
@@ -62,27 +56,27 @@ A simple App, which was my first project in Python and Django, having worked pri
 
 
 
-### [A React Application for recording learnings as a developer, following React best-practices](https://developer-lessons-react.vercel.app/)
+### [Developer Lessons Log (React, local storage)](https://developer-lessons-react.vercel.app/)
 The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
 
 [![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)](https://developer-lessons-react.vercel.app)
 
 
 
-### [A relaxing site featuring an animated Studio Ghibli video](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
+### [Studio Ghibli Spotlight (HTML, CSS)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
 A simple for-practice video and audio site with a responsive header. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
 
 [![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/8e15b17c-d630-41f1-aeb0-815fad921f90)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli)
 
 
 
-### [A colourful responsive Tailwind grid)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
+### [A simple grid experiment (HTML, Tailwind CSS))](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
 
 A simple for-practice responsive grid layout, something I had not had time to practice on other projects thus far.
 
 [![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/6a50cfc3-1266-47db-8e70-dbd8e3fcf61b)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments)
 
-### [Banana and Ivy Maze Game](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game)
+### [Banana and Ivy Maze Game (JavaScript Event Listeners](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game)
 
 I grid-based game made only out of HTML, CSS and JavaScript event listeners.
 
