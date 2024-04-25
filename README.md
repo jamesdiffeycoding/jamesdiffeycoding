@@ -1,5 +1,5 @@
 # Me in a nutshell 🥜
-I'm James! a software developer currently in London. I am a Master's Graduate from LSE, former climate change researcher at Imperial College London and former psychotherapist transitioning to the tech industry. 
+I'm James ! - a software developer currently in London. I am a Master's Graduate from LSE, former climate change researcher at Imperial College London and former psychotherapist transitioning to the tech industry. 
 My diverse background has given me a wide array of transferrable skills, including in qualitative and quantitative analysis, communication, and team wellbeing support. 
 
 I saw the value software skills could bring organisations and enrolled on a Full Stack Development bootcamp. Since then, I've been building this portfolio of projects in a wide range of languages and frameworks. I'd be delighted to find a full time role where I can continue to grow as a developer.
