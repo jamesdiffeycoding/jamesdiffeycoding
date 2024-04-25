@@ -86,7 +86,7 @@ A simple for-practice responsive grid layout, something I had not had time to pr
 
 I grid-based game made only out of HTML, CSS and JavaScript event listeners.
 
-<img width="1000" alt="BananaGameShot1" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/864667e5-253c-4e88-beaf-5178728904b6">
+[![BananaGameShot1](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/0cc2e1e7-1a57-49ae-878b-23d0d7cb2acc)](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game)
 
 ### Timed code challenges ⏰ 
 Sometimes I like to set myself smaller challenges to test my learning.
