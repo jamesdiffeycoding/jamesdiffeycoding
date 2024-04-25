@@ -39,7 +39,7 @@ Animating beautiful equations using React, TypeScript, and canvas.
 ### [CRUD Pokedex App (Ruby)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far.
 
-![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)
+[![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 
 
 
@@ -47,41 +47,46 @@ A simple CRUD-functionality Pokedex App, which was my first project in Ruby on R
 
 This application allows me to check all of my deployments statuses (and prevent any from spinning down with activity) by visiting a single site. Python, Flask and Beautiful Soup were used to scrape my sites for their html content, and the site itself displays whether the url request was valid, and whether the html response to the request was as expected.
 
-![DeploymentsDashboardShot2](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a1dae188-5b51-4978-ab78-0617aa2372e1)
+[![DeploymentsDashboardShot2](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a1dae188-5b51-4978-ab78-0617aa2372e1)](https://jamesdiffeycoding-pythonlivedashboard.vercel.app)
 
 
 ### [A simple Ruby On Rails Pokedex App (Render)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 A simple CRUD-functionality Pokedex App, which was my first project in Ruby on Rails, having worked primarily in React/Next JS thus far.
 
-![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)
+[![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1)](https://rubyonrails-pokedex.onrender.com/pokemonsters)
 
-### [A Python and Django Learning App (Vercel)](https://django-learning-project.vercel.app/)
+### [A Python and Django Learning App](https://django-learning-project.vercel.app/)
 A simple App, which was my first project in Python and Django, having worked primarily in React/Next JS thus far.
 
-![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f92fd5e0-21ea-43be-8b55-ee703a9f08bc)
+[![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f92fd5e0-21ea-43be-8b55-ee703a9f08bc)](https://django-learning-project.vercel.app)
 
 
 
-### [A React Application for recording learnings as a developer, following React best-practices (Vercel)](https://developer-lessons-react.vercel.app/)
+### [A React Application for recording learnings as a developer, following React best-practices](https://developer-lessons-react.vercel.app/)
 The application allows adding, viewing, deleting and updating (via favouriting) of learnings I record on my journey to become a great developer. It was fun to create the favourites filter option, and to experiment with a colour theme toggle in the settings. It was a great opportunity to practice setting up my code in a clear, modular way in React, as well as to practice working with local storage.
 
-![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)
+[![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf)](https://developer-lessons-react.vercel.app)
 
 
 
-### [A relaxing site featuring an animated Studio Ghibli video (GH Pages)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
+### [A relaxing site featuring an animated Studio Ghibli video](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli/)
 A simple for-practice video and audio site with a responsive header. Autoplay prevents videos playing with audio by default, so I had to feature an audio player on the site itself.
 
-![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/8e15b17c-d630-41f1-aeb0-815fad921f90)
+[![GhibliShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/8e15b17c-d630-41f1-aeb0-815fad921f90)](https://jamesdiffeycoding.github.io/Animated-Wallpaper-StudioGhibli)
 
 
 
-### [A colourful responsive Tailwind grid (GH Pages)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
+### [A colourful responsive Tailwind grid)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments/)
 
 A simple for-practice responsive grid layout, something I had not had time to practice on other projects thus far.
 
-![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/6a50cfc3-1266-47db-8e70-dbd8e3fcf61b)
+[![GridResponseBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/6a50cfc3-1266-47db-8e70-dbd8e3fcf61b)](https://jamesdiffeycoding.github.io/Tailwind-Responsive-Grid-Experiments)
 
+### [Banana and Ivy Maze Game](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game)
+
+I grid-based game made only out of HTML, CSS and JavaScript event listeners.
+
+<img width="1000" alt="BananaGameShot1" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/864667e5-253c-4e88-beaf-5178728904b6">
 
 ### Timed code challenges ⏰ 
 Sometimes I like to set myself smaller challenges to test my learning.
@@ -92,9 +97,7 @@ Sometimes I like to set myself smaller challenges to test my learning.
 ![ChallengesShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/be1d4e60-dfd6-4f49-81bb-589c4373da23)
 
 
-- 150 minute challenge: make a front-end maze game. I called mine [Banana and Ivy](https://jamesdiffeycoding.github.io/JS-Banana-and-Ivy-Game/)
 
-<img width="1000" alt="BananaGameShotBanner" src="https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b70182d1-170a-4d44-8641-a7d87b622b99">
 
 
 
