@@ -1,25 +1,17 @@
 # Me in a nutshell 🥜
+Hi I'm James, a software developer currently in London. I am a Master's Graduate from LSE, climate change researcher and former psychotherapist transitioning to the tech industry. 
+My diverse background has given me a wide array of transferrable skills, including in qualitative and quantitative analysis, communication, and team wellbeing support. 
+
+I saw the value software skills could bring organisations and enrolled on a Full Stack Development bootcamp. Since then, I've been building this portfolio of projects in a wide range of languages and frameworks. Now, I'd be delighted to find a full time role where I can continue to grow as a developer.
+
+# My links: 
 [My CV](https://drive.google.com/file/d/1tN5JaPR1wg8wBVwlHW5IklCENYjRykIE/view?usp=sharing)
 [My email](mailto:diffeyj@outlook.com)
 [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)
 
-
-
-• **Location**: London, UK
-
-• **Languages**: JavaScript, TypeScript, Python, Ruby
-
-• **Frameworks**: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
-
-• **Functionality**: semantic HTML, responsive CSS, authentication and authorisation 
-
-• **Code Values**: consistent coding structures, regular feedback, Agile work practices, accessibility.
-
-• **Wider background**: I have a Master's degree in Climate Change, trained as a psychotherapist, and worked as a researcher for several years.
-
-# Reach out 💬
-
-I am keen to become the best developer and teamplayer I can be. Reach out at @jamesdiffeycoding@outlook.com or📫 
+# I have built projects using...
+**Languages**: JavaScript, TypeScript, Python, Ruby
+**Frameworks**: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
 
 # Recent Projects 🖥️
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
