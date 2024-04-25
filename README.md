@@ -1,3 +1,6 @@
+# My links: 
+[My CV](https://drive.google.com/file/d/1tN5JaPR1wg8wBVwlHW5IklCENYjRykIE/view?usp=sharing)    |    [My email](mailto:diffeyj@outlook.com)    |    [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)
+
 # Hi I'm James!
 I'm a former Master's Graduate from LSE, climate change researcher at Imperial College London and psychotherapist transitioning to the tech industry. 
 My diverse background has given me a wide array of transferrable skills, including in qualitative and quantitative analysis, communication, and team wellbeing support. 
@@ -7,10 +10,6 @@ I saw the value software skills could bring organisations and enrolled on a Full
 So far, I have built projects using various languages and frameworks:
 - Languages: JavaScript, TypeScript, Python, Ruby
 - Frameworks: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
-
-# My links: 
-[My CV](https://drive.google.com/file/d/1tN5JaPR1wg8wBVwlHW5IklCENYjRykIE/view?usp=sharing)    |    [My email](mailto:diffeyj@outlook.com)    |    [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)
-
 
 # Recent Projects 🖥️
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
