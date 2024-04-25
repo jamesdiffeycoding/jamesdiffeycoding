@@ -17,6 +17,10 @@ So far, I have built projects using various languages and frameworks:
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
 
+
+[![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)
+
+
 [![AwesunShotBanner]([https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4](https://example.com)
 
 ![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)
