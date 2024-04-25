@@ -5,8 +5,8 @@ My diverse background has given me a wide array of transferrable skills, includi
 I saw the value software skills could bring organisations and enrolled on a Full Stack Development bootcamp. Since then, I've been building this portfolio of projects in a wide range of languages and frameworks. I'd be delighted to find a full time role where I can continue to grow as a developer.
 
 So far, I have built projects using various languages and frameworks:
-**Languages**: JavaScript, TypeScript, Python, Ruby
-**Frameworks**: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
+- Languages: JavaScript, TypeScript, Python, Ruby
+- Frameworks: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
 
 # My links: 
 [My CV](https://drive.google.com/file/d/1tN5JaPR1wg8wBVwlHW5IklCENYjRykIE/view?usp=sharing)    |    [My email](mailto:diffeyj@outlook.com)    |    [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)
