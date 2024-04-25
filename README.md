@@ -19,6 +19,7 @@ This application visualises the solar energy currently being produced in the UK,
 
 ![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)
 
+![AwesunShotBanner]([https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4](https://awesun-solar-visualiser.vercel.app/))
 
 ### [Secure homeless shelter user database (Next, JS, SupaBase, Jest)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
