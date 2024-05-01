@@ -1,5 +1,4 @@
-# My links: 
-[My CV](https://drive.google.com/file/d/1tN5JaPR1wg8wBVwlHW5IklCENYjRykIE/view?usp=sharing)    |    [My email](mailto:diffeyj@outlook.com)    |    [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)
+[My CV and a letter to hiring managers](https://drive.google.com/drive/folders/1VTsAK-YQOohedj19y39DS37WGFaVcIfu?usp=sharing)    |    [My email](mailto:diffeyj@outlook.com)    |    [LinkedIn](https://www.linkedin.com/in/jamesdiffey/)
 
 # Hi I'm James!
 I'm a former Master's Graduate from LSE, climate change researcher at Imperial College London and psychotherapist transitioning to the tech industry. 
