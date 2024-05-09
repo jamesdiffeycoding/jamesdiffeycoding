@@ -1,4 +1,4 @@
-# Hi I'm [James!](mailto:jamesdiffey8@gmail.com)
+# Hi I'm [James](mailto:jamesdiffey8@gmail.com)!
 I'm a former Master's Graduate from LSE, climate change researcher at Imperial College London and psychotherapist transitioning to the tech industry. 
 My diverse background has given me a wide array of transferrable skills, including in qualitative and quantitative analysis, communication, and team wellbeing support. 
 
