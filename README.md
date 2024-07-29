@@ -9,6 +9,12 @@ So far, I have built projects using various languages and frameworks:
 - Frameworks: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
 
 # Recent Projects 🖥️
+### [CalculApp (Next)](https://math-calculapp.vercel.app/)
+
+This fully-tested, keyboard-friendly calculator app overcomes JavaSCript's typical Mathematical rounding errors using Decimal JS. Features include colour themes and calculation history.
+
+![CalculappShot1](https://github.com/user-attachments/assets/7e9a6239-5e54-4f10-831f-72b87a3c64ff)
+
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
