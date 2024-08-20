@@ -9,12 +9,6 @@ So far, I have built projects using various languages and frameworks:
 - Frameworks: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
 
 # Recent Projects 🖥️
-### [CalculApp (Next)](https://math-calculapp.vercel.app/)
-
-This fully-tested, keyboard-friendly calculator app overcomes JavaSCript's typical Mathematical rounding errors using Decimal JS. Features include colour themes and calculation history.
-
-![CalculappShot1](https://github.com/user-attachments/assets/7e9a6239-5e54-4f10-831f-72b87a3c64ff)
-
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
@@ -32,9 +26,10 @@ The application helps staff quickly record information about their service users
 [![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
 ### [Mathemagical (TypeScript, React)](https://mathemagical.vercel.app/)
-Animating beautiful equations using React, TypeScript, and canvas.
+A collection of Mathematical projects, including a fully-tested, keyboard-friendly calculator app which overcomes JavaSCript's typical Mathematical rounding errors using Decimal JS - and 'Spiraliser' for animating beautiful equations using React and HTML's canvas element.
 
-[![MathemagicalBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/017d01b5-e6fb-427e-aca0-0629eac09867)](https://mathemagical.vercel.app)
+![MathemagicalSpiral](https://github.com/user-attachments/assets/38628660-0210-47e4-8f34-b6163019c074)
+![MathemagicalCalc](https://github.com/user-attachments/assets/5632f695-3b55-4137-8a01-5332803dd077)
 
 
 
