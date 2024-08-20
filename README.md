@@ -9,13 +9,17 @@ So far, I have built projects using various languages and frameworks:
 - Frameworks: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
 
 # Recent Projects 🖥️
-
-
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
 
 [![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)
+
+
+### [Mathemagical (TypeScript, React)](https://mathemagical.vercel.app/)
+A collection of Mathematical projects, including a fully-tested, keyboard-friendly calculator app which overcomes JavaSCript's typical Mathematical rounding errors using Decimal JS - and 'Spiraliser' for animating beautiful equations using React and HTML's canvas element.
+
+![MathemagicalBanner](https://github.com/user-attachments/assets/f4b7e933-ddc9-4912-a8d0-24d6d8b4ca33)
 
 
 ### [Secure homeless shelter user database (Next, JS, SupaBase, Jest)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
@@ -25,13 +29,6 @@ The application helps staff quickly record information about their service users
 - authorisation and authentication with SupaBase, auth-guarding, dynamic routing, caching prevention, React Hooks, prop-drilling, context... and more! 
 
 [![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
-
-
-### [Mathemagical (TypeScript, React)](https://mathemagical.vercel.app/)
-A collection of Mathematical projects, including a fully-tested, keyboard-friendly calculator app which overcomes JavaSCript's typical Mathematical rounding errors using Decimal JS - and 'Spiraliser' for animating beautiful equations using React and HTML's canvas element.
-
-![MathemagicalSpiral](https://github.com/user-attachments/assets/38628660-0210-47e4-8f34-b6163019c074)
-![MathemagicalCalc](https://github.com/user-attachments/assets/5632f695-3b55-4137-8a01-5332803dd077)
 
 
 
