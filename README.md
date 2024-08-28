@@ -20,8 +20,7 @@ My personal site where I collect some of my favourite personal projects. The ani
 ### [Awesun: Solar Energy Visualiser (React/NextJS)](https://awesun-solar-visualiser.vercel.app/)
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
 
-[![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)](https://jamesdiffey.vercel.app/)
-
+[![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)]
 
 ### [Mathemagical (TypeScript/React/NextJS/Jest/Playwright)](https://mathemagical.vercel.app/)
 A collection of Mathematical projects, including a fully-tested, keyboard-friendly calculator app which overcomes JavaSCript's typical Mathematical rounding errors using Decimal JS - and 'Spiraliser' for animating beautiful equations using React and HTML's canvas element.
