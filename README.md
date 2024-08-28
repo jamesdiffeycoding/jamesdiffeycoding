@@ -1,32 +1,37 @@
-Hi there, I'm James. 
+Hi there! I'm a London-based software engineer. [My portfolio](https://jamesdiffey.vercel.app/) consists of various JavaScript, TypeScript and Python projects using various libraries and frameworks. I have most often used React, Next JS and Node in applications involving either my own or publically available APIs. 
 
-My [portfolio](https://jamesdiffey.vercel.app/) consists of various JavaScript, TypeScript and Python projects using various libraries and frameworks. I have most often used React, Next JS and Node in applications involving either my own or publically available APIs. 
+I have been fortunate to work and study with incredible peers and tutors that have made me a more well-rounded person. I gained a Master's degree in Climate Change from the London School of Economics; trained as a psychotherapist at the Psychosynthesis Trust; and led research projects to help pioneer the field of Climate Change and Mental Health at Imperial College London.
 
-I have been fortunate to have had the opportunity to work and study with incredible peers and tutors that have made me a more well-rounded person. I gained a Master's degree in Climate Change from the London School of Economics; trained as a psychotherapist at the Psychosynthesis Trust; and led research projects to help pioneer the field of Climate Change and Mental Health at Imperial College London.
+In all my previous roles, I saw the value that well-designed software good bring organisations. Whether it was for automating repititive tasks, designing an accessible and satisfying product for customers, or for scaling up a mental health intervention to thousands of people, I have seen good software help organisation's achieve their goals and improve their operations. Conversely, I've also seen software that was built hurriedly without due care or research fail to achieve their potential. 
 
-In all my previous roles, I saw the value that well-designed software good bring organisations. Whether it is to automate repititive tasks, design a satisfying product for customers, or to deliver beneficial content to thousands of people, I have seen software help organisation's achieve their goals and improve their operations. Conversely, I've seen software that was built hurriedly without due care or research fail to achieve their potential. 
-
-After achieving many of my goals I left my research role to complete a Full Stack Development Bootcamp at the School of Code and **I have been building projects ever since**. 
+After achieving many of my goals I left my research role to complete a Full Stack Development Bootcamp at the School of Code and **I have thoroughly enjoyed building projects ever since**. 
 
 I'd be delighted for you to get in touch if you are looking for new software engineers in your team. [Reach out here](mailto:jamesdiffeycoding@outlook.com).
 
-Some of my recent projects are listed below:
-
 # Recent Projects 🖥️
-### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
+
+### [My Portfolio (React/NextJS)](https://awesun-solar-visualiser.vercel.app/)
 
 This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
 
-[![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)
+[![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)](https://jamesdiffey.vercel.app/)
 
 
-### [Mathemagical (TypeScript, React)](https://mathemagical.vercel.app/)
+
+### [Awesun: Solar Energy Visualiser (React/NextJS)](https://awesun-solar-visualiser.vercel.app/)
+
+This application visualises the solar energy currently being produced in the UK, connecting to a dataset from University of Sheffield. The project was inspired by Winderful, which does the same for wind energy in the UK. Because of CORS fetch errors, server-side rendering in Next JS was used.
+
+[![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)](https://jamesdiffey.vercel.app/)
+
+
+### [Mathemagical (TypeScript/React/NextJS/Jest/Playwright)](https://mathemagical.vercel.app/)
 A collection of Mathematical projects, including a fully-tested, keyboard-friendly calculator app which overcomes JavaSCript's typical Mathematical rounding errors using Decimal JS - and 'Spiraliser' for animating beautiful equations using React and HTML's canvas element.
 
 ![MathemagicalBanner](https://github.com/user-attachments/assets/f4b7e933-ddc9-4912-a8d0-24d6d8b4ca33)
 
 
-### [Secure homeless shelter user database (Next, JS, SupaBase, Jest)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
+### [Secure homeless shelter user database (React/NextJS/Supabase/Jest)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
 
 The application helps staff quickly record information about their service users while out in the streets or back in the shelter. It aims to help improve both service staff and service user experiences. This has project has already involved...
 - user interviews, surveys, feedback cycles, wireframes, stakeholder meetings, project demos
