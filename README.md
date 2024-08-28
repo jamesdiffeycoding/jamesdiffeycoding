@@ -6,7 +6,7 @@ In all my previous roles, I saw the value that well-designed software good bring
 
 After achieving many of my goals I left my research role to complete a Full Stack Development Bootcamp at the School of Code and **I have thoroughly enjoyed building projects ever since**. 
 
-I'd be delighted for you to get in touch if you are looking for new software engineers in your team. Get in touch at jamesdiffeycoding@outlook.com
+I'd be delighted for you to get in touch if you are looking for new software engineers in your team. Get in touch at diffeyj@outlook.com
 
 # Recent Projects 🖥️
 
