@@ -1,6 +1,6 @@
 Hi there, I'm James. 
 
-My [portfolio](https://jamesdiffey.vercel.app/)! consists of various JavaScript, TypeScript and Python projects using various libraries and frameworks. I have most often used React, Next JS and Node in applications involving either my own or publically available APIs. 
+My [portfolio](https://jamesdiffey.vercel.app/) consists of various JavaScript, TypeScript and Python projects using various libraries and frameworks. I have most often used React, Next JS and Node in applications involving either my own or publically available APIs. 
 
 I have been fortunate to have had the opportunity to work and study with incredible peers and tutors that have made me a more well-rounded person. I gained a Master's degree in Climate Change from the London School of Economics; trained as a psychotherapist at the Psychosynthesis Trust; and led research projects to help pioneer the field of Climate Change and Mental Health at Imperial College London.
 
@@ -8,7 +8,7 @@ In all my previous roles, I saw the value that well-designed software good bring
 
 After achieving many of my goals I left my research role to complete a Full Stack Development Bootcamp at the School of Code and **I have been building projects ever since**. 
 
-I'd be delighted for you to get in touch if you are looking for new software engineers in your team. [Reach out here](mailto:jamesdiffeycoding@outlook.com)!
+I'd be delighted for you to get in touch if you are looking for new software engineers in your team. [Reach out here](mailto:jamesdiffeycoding@outlook.com).
 
 Some of my recent projects are listed below:
 
