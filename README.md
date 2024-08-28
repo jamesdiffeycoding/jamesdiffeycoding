@@ -1,12 +1,16 @@
-# Hi I'm [James](mailto:jamesdiffey8@gmail.com)!
-I'm a former Master's Graduate from LSE, climate change researcher at Imperial College London and psychotherapist transitioning to the tech industry. 
-My diverse background has given me a wide array of transferrable skills, including in qualitative and quantitative analysis, communication, and team wellbeing support. 
+Hi there, I'm James. 
 
-I saw the value software skills could bring organisations and enrolled on a Full Stack Development bootcamp. Since then, I've been building this portfolio of projects in a wide range of languages and frameworks. I'd be delighted to find a full time role where I can continue to grow as a developer.
+My [portfolio](https://jamesdiffey.vercel.app/)! consists of various JavaScript, TypeScript and Python projects using various libraries and frameworks. I have most often used React, Next JS and Node in applications involving either my own or publically available APIs. 
 
-So far, I have built projects using various languages and frameworks:
-- Languages: JavaScript, TypeScript, Python, Ruby
-- Frameworks: React, Next JS, Express APIs, Django, Flask, GraphQL, Rails, SQL
+I have been fortunate to have had the opportunity to work and study with incredible peers and tutors that have made me a more well-rounded person. I gained a Master's degree in Climate Change from the London School of Economics; trained as a psychotherapist at the Psychosynthesis Trust; and led research projects to help pioneer the field of Climate Change and Mental Health at Imperial College London.
+
+In all my previous roles, I saw the value that well-designed software good bring organisations. Whether it is to automate repititive tasks, design a satisfying product for customers, or to deliver beneficial content to thousands of people, I have seen software help organisation's achieve their goals and improve their operations. Conversely, I've seen software that was built hurriedly without due care or research fail to achieve their potential. 
+
+After achieving many of my goals I left my research role to complete a Full Stack Development Bootcamp at the School of Code and **I have been building projects ever since**. 
+
+I'd be delighted for you to get in touch if you are looking for new software engineers in your team. [Reach out here](mailto:jamesdiffeycoding@outlook.com)!
+
+Some of my recent projects are listed below:
 
 # Recent Projects 🖥️
 ### [Awesun: Solar Energy Visualiser (Next)](https://awesun-solar-visualiser.vercel.app/)
@@ -59,9 +63,9 @@ I grid-based game made only out of HTML, CSS and JavaScript event listeners.
 
 ### Timed code challenges ⏰ 
 Sometimes I like to set myself smaller challenges to test my learning.
-- 30 minute challenge: build a React widget using at least one hook. This ended up cute!
-- 60 minute challenge: display a grid of colours, including their hexcodes in html. This did not end up so cute...
-- 120 minute challenge: make a front-end Noughts and Cross app. The game logic for this was the toughest part by far!
+- 30 minute challenge: build a React widget using at least one hook.
+- 60 minute challenge: display a grid of colours, including their hexcodes in html.
+- 120 minute challenge: make a front-end Noughts and Cross app from scratch.
   
 ![ChallengesShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/be1d4e60-dfd6-4f49-81bb-589c4373da23)
 
