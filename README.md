@@ -13,11 +13,7 @@ I'd be delighted for you to get in touch if you are looking for conscientious so
 ### [My Portfolio (React/NextJS)](https://awesun-solar-visualiser.vercel.app/)
 My personal site where I collect some of my favourite personal projects. The animated hover-effect over the lilypad design reflects my background and interest in nature. This site sends requests to my other deployments to ensure they are up and running.
 
-
 [![Portfolio-lilypad](https://github.com/user-attachments/assets/5a678fb2-9dd9-42d2-8cbe-84a2a2e8d24d)](https://jamesdiffey.vercel.app/)
-
-
-[![AwesunShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)
 
 
 
@@ -34,7 +30,6 @@ A collection of Mathematical projects, including a fully-tested, keyboard-friend
 
 
 ### [Secure homeless shelter user database (React/NextJS/Supabase/Jest)](https://secure-nextjs-homeless-shelter-database.vercel.app/dashboard)
-
 The application helps staff quickly record information about their service users while out in the streets or back in the shelter. It aims to help improve both service staff and service user experiences. This has project has already involved...
 - user interviews, surveys, feedback cycles, wireframes, stakeholder meetings, project demos
 - authorisation and authentication with SupaBase, auth-guarding, dynamic routing, caching prevention, React Hooks, prop-drilling, context... and more! 
