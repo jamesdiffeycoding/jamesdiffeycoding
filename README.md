@@ -20,6 +20,6 @@ Hi there!
 | Homeless Shelter Database | An auth-guarded platform for homeless shelter data management.   |  React, Next JS, Node JS, Supabase Auth | ![Images from my application to support homeless shelter staff](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/969e4146-8cbd-4bc4-a5bb-72f34f24deca) |
 | Developer Lessons Log | A collection of learning reminders for developers. |  React, Local Storage   | ![LearningShotsBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/a9bdd1d7-6432-40ca-b995-568d863e0eaf) |
 | Pokedex App | My first project in Ruby on Rails. Full CRUD functionality.   |  Ruby on Rails   | ![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1) |
-| Django learning tool | My first project in Python and Django.   |  Python, Django   | [![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f92fd5e0-21ea-43be-8b55-ee703a9f08bc) |
+| Django learning tool | My first project in Python and Django.   |  Python, Django   | ![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f92fd5e0-21ea-43be-8b55-ee703a9f08bc) |
 | Banana and Ivy Game | A mouse-race game made with only event listeners.   |  HTML, CSS, JS  | ![BananaGameShot1](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/0cc2e1e7-1a57-49ae-878b-23d0d7cb2acc) |
 
