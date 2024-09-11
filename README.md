@@ -2,7 +2,7 @@ Hi there!
 
 ## About me 
 - I'm a London-based software engineer transitioning from climate & mental health research. 
-- I'm empathetic and care about the value of my work.
+- I'm empathetic and care about the value and quality of my work.
 - I was inspired to work as a software engineer after seeing the value that well-designed software can bring organisations.
 - My projects thus far primarily involve JavaScript, APIs, React, Next JS and Node JS. I am also getting more comfortable with TypeScript, Python and other tools in my free time.
 
