@@ -1,14 +1,25 @@
-Hi there! I'm a London-based software engineer. [My portfolio](https://jamesdiffey.vercel.app/) consists of various JavaScript, TypeScript and Python projects using various libraries and frameworks. I have most often used React, Next JS and Node in applications involving either my own or publically available APIs. 
+Hi there! 
 
-I have been fortunate to work and study with incredible peers and tutors that have made me a more well-rounded person. I gained a Master's degree in Climate Change from the London School of Economics; trained as a psychotherapist at the Psychosynthesis Trust; and led research projects to help pioneer the field of Climate Change and Mental Health at Imperial College London.
+## About me 
+- I'm a London-based software engineer transitioning from climate & mental health research. 
+- I'm empathetic and care about the value of my work.
+- I was inspired to work as a software engineer after seeing the value that well-designed software can bring organisations.
+- My projects thus far primarily involve JavaScript, APIs, React, Next JS and Node JS. I am also getting more comfortable with TypeScript, Python and other tools in my free time.
 
-In all my previous roles, I saw the value that well-designed software good bring organisations. Whether it was for automating repititive tasks, designing an accessible and satisfying product for customers, or for scaling up a mental health intervention to thousands of people, I have seen good software help organisation's achieve their goals and improve their operations. Conversely, I've also seen software that was built hurriedly without due care or research fail to achieve their potential. 
+## Get in touch
+- I'd be delighted for you to get in touch if you are looking for conscientious software engineers in your team diffeyj@outlook.com
 
-After achieving many of my goals I left my research role to complete a Full Stack Development Bootcamp at the School of Code and **I have thoroughly enjoyed building projects ever since**. 
+## Projects 🖥️
+- I have numerous personal projects to share 
 
-I'd be delighted for you to get in touch if you are looking for conscientious software engineers in your team. Get in touch at diffeyj@outlook.com
+| Projects          | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | [![Portfolio-lilypad](https://github.com/user-attachments/assets/5a678fb2-9dd9-42d2-8cbe-84a2a2e8d24d)](https://jamesdiffey.vercel.app/)
+ |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
 
-# Recent Projects 🖥️
 
 ### [My Portfolio (React/NextJS)](https://awesun-solar-visualiser.vercel.app/)
 My personal site where I collect some of my favourite personal projects. The animated hover-effect over the lilypad design reflects my background and interest in nature. This site sends requests to my other deployments to ensure they are up and running.
