@@ -9,22 +9,17 @@ Hi there!
 ## Get in touch
 - I'd be delighted for you to get in touch if you are looking for conscientious software engineers in your team diffeyj@outlook.com
 
-## Projects 🖥️
-- I have numerous personal projects to share 
+## Learning 🖥️
+- I build projects and complete courses to help me learn.
 
-| Projects          | In Stock | Price |
+| Projects          | Description | Technologies | Project |
 | :---------------- | :------: | ----: |
-| Python Hat        |   True   | [![Portfolio-lilypad](https://github.com/user-attachments/assets/5a678fb2-9dd9-42d2-8cbe-84a2a2e8d24d)](https://jamesdiffey.vercel.app/)
+| [!Project hosting site](https://jamesdiffey.vercel.app/)        |   A collection of my projects.   | | React, Next JS, JQuery |  [![Portfolio-lilypad](https://github.com/user-attachments/assets/5a678fb2-9dd9-42d2-8cbe-84a2a2e8d24d)](https://jamesdiffey.vercel.app/)
  |
-| SQL Hat           |   True   | 23.99 |
+| [!Awesun Solar Visualiser](https://jamesdiffey.vercel.app/)  |   Helping people tell stories about the value of solar energy in the UK | React, Next JS | [![Portfolio-lilypad](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app)
+ |
 | Codecademy Tee    |  False   | 19.99 |
 | Codecademy Hoodie |  False   | 42.99 |
-
-
-### [My Portfolio (React/NextJS)](https://awesun-solar-visualiser.vercel.app/)
-My personal site where I collect some of my favourite personal projects. The animated hover-effect over the lilypad design reflects my background and interest in nature. This site sends requests to my other deployments to ensure they are up and running.
-
-[![Portfolio-lilypad](https://github.com/user-attachments/assets/5a678fb2-9dd9-42d2-8cbe-84a2a2e8d24d)](https://jamesdiffey.vercel.app/)
 
 
 
