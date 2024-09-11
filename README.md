@@ -14,8 +14,8 @@ Hi there!
 
 | Projects          | Description | Technologies | Project |
 | :---------------- | :---------: | :----------: | :-----: |
-| [!Project hosting site](https://jamesdiffey.vercel.app/)        |   A collection of my projects.   | | React, Next JS, JQuery |  [![Portfolio-lilypad](https://github.com/user-attachments/assets/5a678fb2-9dd9-42d2-8cbe-84a2a2e8d24d)](https://jamesdiffey.vercel.app/) |
-| [!Awesun Solar Visualiser](https://jamesdiffey.vercel.app/)  |   Helping people tell stories about the value of solar energy in the UK | React, Next JS | [![Portfolio-lilypad](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app) |
+| [Project hosting site](https://jamesdiffey.vercel.app/)        |   A collection of my projects.   | | React, Next JS, JQuery |  [![Portfolio-lilypad](https://github.com/user-attachments/assets/5a678fb2-9dd9-42d2-8cbe-84a2a2e8d24d)](https://jamesdiffey.vercel.app/) |
+| [Awesun Solar Visualiser](https://awesun-solar-visualiser.vercel.app)  |   Helping people tell stories about the value of solar energy in the UK | React, Next JS | [![Portfolio-lilypad](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/b0f83f28-72a7-41ea-9eff-57a968f0b2e4)](https://awesun-solar-visualiser.vercel.app) |
 | Codecademy Tee    |  False   | 19.99 |
 | Codecademy Hoodie |  False   | 42.99 |
 
