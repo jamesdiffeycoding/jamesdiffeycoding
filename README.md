@@ -7,7 +7,7 @@ Hi there!
 - My projects thus far primarily involve JavaScript, APIs, React, Next JS and Node JS. I am also getting more comfortable with TypeScript, Python and other tools in my free time.
 
 ## Get in touch
-- I'd be delighted for you to get in touch if you are looking for conscientious software engineers in your team diffeyj@outlook.com
+-  diffeyj@outlook.com
 
 ## Learning 🖥️
 - I build projects and complete courses to help me learn. 
