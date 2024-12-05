@@ -1,16 +1,12 @@
-Hi there! 
+Hi there! I'm an empathetic software engineer with a background in research.
 
-## About me 
-- I'm a London-based software professional transitioning from climate & mental health research. 
-- I'm empathetic and care about the value and quality of my work.
-- I was inspired to work in software after seeing the value that well-designed software can bring organisations.
-- My projects thus far primarily involve JavaScript, APIs, React, Next JS and Node JS. I am also getting more comfortable with TypeScript, Python and other tools in my free time.
+I was inspired to work in software after seeing the value that well-designed software can bring organisations.
 
-## Get in touch
--  diffeyj@outlook.com
+I have experience with JavaScript, APIs, React, Next JS, TypeScript, Python and SQL - and have completed a Full Stack Development Bootcamp.
 
-## Learning 🖥️
-- I build projects and complete courses to help me learn. 
+I currently work with an AI-mental health startup supporting their research needs and product vision.
+
+Some screenshots from my work are listed below.
 
 | Projects          | Description | Technologies | Screenshot |
 | :---------------- | :---------: | :----------: | :-----: |
@@ -23,4 +19,3 @@ Hi there!
 | Pokedex App | My first project in Ruby on Rails. Full CRUD functionality.   |  Ruby on Rails   | ![RubyDexShotBannerShort](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/87d429f5-eaca-46e4-a655-b28c06d4a2b1) |
 | Django learning tool | My first project in Python and Django.   |  Python, Django   | ![DjangoShotBanner](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/f92fd5e0-21ea-43be-8b55-ee703a9f08bc) |
 | Banana and Ivy Game | A mouse-race game made with only event listeners.   |  HTML, CSS, JS  | ![BananaGameShot1](https://github.com/jamesdiffeycoding/jamesdiffeycoding/assets/139918141/0cc2e1e7-1a57-49ae-878b-23d0d7cb2acc) |
-
