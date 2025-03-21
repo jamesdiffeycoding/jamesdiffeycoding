@@ -1,10 +1,6 @@
-Hi there! I'm an empathetic software engineer with a background in research.
-
 I was inspired to work in software after seeing the value that well-designed software can bring organisations.
 
 I have experience with JavaScript, APIs, React, Next JS, TypeScript, Python and SQL - and have completed a Full Stack Development Bootcamp.
-
-I currently work with an AI-mental health startup supporting their research needs and product vision.
 
 Some screenshots from my work are listed below.
 
