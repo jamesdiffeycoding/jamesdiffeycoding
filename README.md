@@ -1,7 +1,5 @@
 ![Name GIF Fireworks](https://github.com/user-attachments/assets/925735df-b221-43ba-800e-3a610f7637bc)
 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
