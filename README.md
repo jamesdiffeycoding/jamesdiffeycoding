@@ -1,9 +1,15 @@
 const James = softwareDeveloper {
+
   inspiration ="Seeing the value that good software can bring organisations",
+
   mainLanguages = ["JavaScript", "Typescript", "Python", "SQL"],
+
   frameworks = ["React", "Next JS", "Node", "FastAPI"],
+  
   widerInterests = ["sustainability", "mental health"],
+  
   wider_skills = ["teamplayer", "trained therapist"]
+  
 }
 
 Some of my personal projects are shown below. 
