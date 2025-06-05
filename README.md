@@ -19,7 +19,6 @@
 [![](https://img.shields.io/badge/-🗂%20Pronoun%20Inclusivity%20Script-000)](https://pronoun-inclusivity-script.vercel.app)
 [![](https://img.shields.io/badge/-💉%20Lilypad%20Lake-000)](https://jamesdiffey.vercel.app)
 [![](https://img.shields.io/badge/-🩸%20Homeless%20Shelter%20Database-000)](https://github.com/jamesdiffeycoding)
-
 [![](https://img.shields.io/badge/-🌊🗂%20Django%20Learning%20Tool-000)](https://github.com/jamesdiffeycoding)
 [![](https://img.shields.io/badge/-🗂%20Community%20Quizzer-000)](https://github.com/jamesdiffeycoding)
 [![](https://img.shields.io/badge/-💉%20Academic%20Abstract%20Automation-000)](https://github.com/jamesdiffeycoding)
