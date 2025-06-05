@@ -1,16 +1,5 @@
-const James = softwareDeveloper {
+![Name GIF Fireworks](https://github.com/user-attachments/assets/925735df-b221-43ba-800e-3a610f7637bc)
 
-  inspiration ="Seeing the value that good software can bring organisations",
-
-  mainLanguages = ["JavaScript", "Typescript", "Python", "SQL"],
-
-  frameworks = ["React", "Next JS", "Node", "FastAPI"],
-  
-  widerInterests = ["sustainability", "mental health"],
-  
-  wider_skills = ["teamplayer", "trained therapist"]
-  
-}
 
 Some of my personal projects are shown below. 
 
