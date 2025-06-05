@@ -1,6 +1,10 @@
-I was inspired to work in software after seeing the value that well-designed software can bring organisations.
-
-I have experience with JavaScript, APIs, React, Next JS, TypeScript, Python and SQL - and have completed a Full Stack Development Bootcamp.
+const James = softwareDeveloper {
+  inspiration ="Seeing the value that good software can bring organisations",
+  mainLanguages = ["JavaScript", "Typescript", "Python", "SQL"],
+  frameworks = ["React", "Next JS", "Node", "FastAPI"],
+  widerInterests = ["sustainability", "mental health"],
+  wider_skills = ["teamplayer", "trained therapist"]
+}
 
 Some of my personal projects are shown below. 
 
